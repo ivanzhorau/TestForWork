@@ -1,0 +1,15 @@
+D:\00Sprobniki\TestOnWork\TestOnWork\bin\Debug\TestOnWork.exe.config
+D:\00Sprobniki\TestOnWork\TestOnWork\bin\Debug\TestOnWork.exe
+D:\00Sprobniki\TestOnWork\TestOnWork\bin\Debug\TestOnWork.pdb
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\TestOnWork.csprojAssemblyReference.cache
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\App.g.cs
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\TestOnWork_MarkupCompile.cache
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\TestOnWork_MarkupCompile.lref
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\TestOnWork.g.resources
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\TestOnWork.Properties.Resources.resources
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\TestOnWork.csproj.GenerateResource.cache
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\TestOnWork.csproj.CoreCompileInputs.cache
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\TestOnWork.exe
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\TestOnWork.pdb
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\View\MainWindow.g.cs
+D:\00Sprobniki\TestOnWork\TestOnWork\obj\Debug\View\MainWindow.baml
